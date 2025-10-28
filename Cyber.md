@@ -16,5 +16,25 @@
 
 Information Security = Protecting all kinds of information
 * Digital + Physical
+* Cyber Security = Protecting
+* Internet + Network System 
 
 ![download](https://github.com/user-attachments/assets/acba669a-0eae-46aa-956f-6992aa357978)
+
+*Example Comparision*
+
+
+| Situation                                        | InfoSec View                                                   | Cyber Security View                                                                       |
+|--------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| A hacker steals customer database from a website | Concerned about *loss of confidentiality* of customer data.    | Concerned about *how the hacker breached the server* and *network vulnerabilities*.       |
+| Employee prints confidential data and leaks it   | *Handled under InfoSec* (physical data breach].                | Not considered a *cyber* issue (no digital attack involved).                              |
+
+
+# Summary
+
+| Point            | InfoSec               | Cyber Security           |
+|------------------|-----------------------|--------------------------|
+| Focus            | Data ( any form)      | Digital environment      |
+| Coverage         | Broader               | Subsets of InfoSec       |
+| Threat Type      | Physical + Digital    | Only Digital             |
+| Goal             | CIA of all data       | CIA of digital assets    |
